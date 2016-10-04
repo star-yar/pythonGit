@@ -1,12 +1,15 @@
 # Critter Caretaker
 # A virtual pet to care for
 
+import random
+
 class Critter(object):
     """A virtual pet"""
     def __init__(self, name, hunger = 0, boredom = 0):
         self.name = name
         self.hunger = hunger
         self.boredom = boredom
+        print(self.name, 'появился на свет')
 
     def __pass_time(self):
         self.hunger += 1
@@ -53,9 +56,23 @@ class Critter(object):
 
 
 def main():
-    crit_name = input("Как назовете новую зверушку?: ")
-    crit = Critter(crit_name)
-
+    critters=[]
+    
+    print('Сколько зверей хотите на ферме? ', end='')
+    nCrits=int(input())
+    
+    if nCrits>1:
+        critList=[]
+        for i in range(0, nCrits):
+            hunger=random.randint(0,3)
+            boredom=random.randint(0,3) 
+            crit_name = input("Как назовете новую зверушку?: ")
+            crit = Critter(crit_name, hunger, boredom)
+            critList.append(crit)
+    else:
+        crit_name = input("Как назовете новую зверушку?: ")
+        crit = Critter(crit_name)
+    
     choice = None  
     while choice != "0":
         print \
@@ -63,9 +80,9 @@ def main():
         Тамагочи
     
         0 - Выйти
-        1 - Поговорить со зверушкой
-        2 - Покормить зверушку
-        3 - Поиграть со зверушкой
+        1 - Поговорить со зверушками
+        2 - Покормить зверушек
+        3 - Поиграть со зверушками
         """)
     
         choice = input("Выбор: ")
@@ -77,20 +94,28 @@ def main():
 
         # listen to your critter
         elif choice == "1":
-            crit.talk()
+            for i in range(0,nCrits):
+                criter=critList[i]
+                criter.talk()
         
         # feed your critter
         elif choice == "2":
             food=int(input('Сколько пачек корма дать питомцу? '))
-            crit.eat(food)
+            for i in range(0,nCrits):
+                criter=critList[i]
+                crit.eat(food)
          
         # play with your critter
         elif choice == "3":
             fun=int(input('Сколько часов поиграем с питомцем? '))
-            crit.play(fun)
+            for i in range(0,nCrits):
+                criter=critList[i]
+                crit.play(fun)
 
         elif choice== '11':
-            print(crit)
+            for i in range(0,nCrits):
+                criter=critList[i]
+                print(criter)
 
         # some unknown choice
         else:
