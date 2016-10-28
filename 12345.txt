@@ -1,0 +1,725 @@
+
+
+   <p>
+    <strong class="ms-rteThemeFontFace-1" style="font-size: 14px;">Устав образовательной организации</strong></p>
+<p>
+</p>
+<div itemprop="Ustav_DocLink">
+    <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> </span><strong class="ms-rteThemeFontFace-1" style="font-size: 14px;"></strong><span class="ms-rteThemeFontFace-1" style="font-size: 14px;">???</span><a target="_blank" href="/ru/Documents/Ustavs/Ustav_13.10.2015.pdf"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;">??<img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/>Устав ФГБОУ ?ВО «РЭУ имени Г.В. Плеханова»</span></a><span class="ms-rteThemeFontFace-1" style="font-size: 14px;">?????</span><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> </span></div>
+<p>
+</p>
+<p>
+</p>
+<p>
+    <span class="ms-rteThemeFontFace-1" style="font-size: 14px;">????<br/></span></p>
+<p>
+    <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><strong>Лицензия на осуществление образовательной деятельности (с приложениями)???</strong></span></p>
+<div itemprop="License_DocLink">
+    <p>
+        <span style="font-size: 14px;"> 
+         <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> </span><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> 
+            <img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span>
+        <a target="_blank" href="/ru/Documents/Licenzii/Licen_25.12.2015.pdf">
+            <span class="ms-rteThemeFontFace-1" style="font-size: 14px;">Лицензия на осущест?вление образовательной деятельности</span></a><span class="ms-rteThemeFontFace-1" style="font-size: 14px;">????</span></span>
+    </p>
+    <p>
+        <span style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;</span><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril1.pdf">Приложение 1.???? ФГБОУ ВО</a>&#160;</span></span>
+        </span><span style="font-family: &quot;pt sans&quot;, sans-serif; font-size: 13px;">«</span><a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril1.pdf"><span class="ms-rteThemeFontFace-1">РЭУ им. Г.В. Плеханова»?</span></a></p>
+</div>
+<p>
+    <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;</span><a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril2.pdf"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;">Приложение 2.???? Брянский филиал РЭУ им. Г.В. Плеханова</span><br/></a></span>
+</p>
+<p>
+    <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;<a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril3.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 3. Волгоградский филиал РЭУ им. Г.В. Плеханова?</span></a>
+    </span>
+    <br/>
+    </span>
+</p>
+<p>
+    <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;</span><a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril4.pdf"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 4.???? &#160;Воронежский филиал&#160;РЭУ им. Г.В. Плеханова</span></span><br/></a></span>
+    </span>
+</p>
+<p>
+    <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px; width: 28px;"/></span><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;"><a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril5.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;Приложение 5. Ивановский филиал&#160;РЭУ им. Г.В. Плеханова?</span></a>
+    </span>
+    <br/>
+    </span>
+    </span>
+</p>
+<p>
+    <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px; width: 29px;"/></span><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;<a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril6.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 6. Кемеровский институт (филиал)&#160;РЭУ им. Г.В. Плеханова</span></a>
+    </span>
+    <br/>
+    </span>
+    </span>
+</p>
+<p>
+    <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;<a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril7.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 7. Кемеровский институт (филиал)&#160;РЭУ им. Г.В. Плеханова</span></a>
+    </span>
+    <br/>
+    </span>
+    </span>
+</p>
+<p>
+    <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;"><a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril8.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;Приложение 8. Омский институт (филиал)&#160;РЭУ им. Г.В. Плеханова</span></a>
+    </span>
+    <br/>
+    </span>
+    </span>
+</p>
+<p>
+    <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px; width: 29px; height: 31px;"/></span><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;"><a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril9.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;Приложение 9. Оренбургский филиал&#160;РЭУ им. Г.В. Плеханова</span></a>
+    </span>
+    <br/>
+    </span>
+    </span>
+</p>
+<p>
+    <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/>&#160;<a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril10.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 10. Пермский институт (филиал)&#160;РЭУ им. Г.В. Плеханова</span></a>
+    </span>
+    </span>
+    </span>
+</p>
+<p>
+    <span class="ms-rteThemeFontFace-1"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span><a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril11.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;Приложение 11. Ростовский институт (филиал)&#160;РЭУ им. Г.В. Плеханова</span></a></p>
+<p>
+    <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;"><a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril12.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;Приложение 12. Самарский институт (филиал)&#160;РЭУ им. Г.В. Плеханова</span></a>
+    </span>
+    <br/>
+    </span>
+    </span>
+</p>
+<p>
+    <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;"></span><a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril13.pdf"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;Приложение&#160;13. Саратовский социально-экономический институт (филиал)&#160;РЭУ им. Г.В. Плеханова</span></span><br/></a></span>
+    </span>
+</p>
+<p>
+    <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/>&#160;<span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;"></span><a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril14.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение&#160;14. Смоленский филиал&#160;РЭУ им. Г.В. Плеханова</span></a></span>
+    <br/>
+    </span>
+    </span>
+</p>
+<p>
+    <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;"></span><a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril15.pdf"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;Приложение&#160;15. Тульский филиал&#160;РЭУ им. Г.В. Плеханова</span></span><br/></a></span>
+    </span>
+</p>
+<div itemprop="License_DocLink">
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; line-height: 1.6 !important; font-size: 14px !important;">
+        <span class="ms-rteThemeFontFace-1"><span class="ms-rteThemeFontFace-1"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span><a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril16.pdf"><span class="ms-rteThemeFontFace-1"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;Приложение 16.???? Улан-Баторский филиал&#160;РЭУ им. Г.В. Плеханова</span></span><br/></a></span>
+    </p>
+</div>
+<p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; line-height: 1.6 !important; font-size: 14px !important;">
+    <span class="ms-rteThemeFontFace-1"><span class="ms-rteThemeFontFace-1"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span>&#160;<a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril17.pdf"><span class="ms-rteThemeFontFace-1"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 17.??? Уральский филиал&#160;РЭУ им. Г.В. Плеханова</span></span><br/></a></span>
+</p>
+<p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; line-height: 1.6 !important; font-size: 14px !important;">
+    <span class="ms-rteThemeFontFace-1"><span class="ms-rteThemeFontFace-1"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span>&#160;<a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril18.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 18. Уфимский институт (филиал)&#160;РЭУ им. Г.В. Плеханова</span><br/></a></span>
+</p>
+<p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; line-height: 1.6 !important; font-size: 14px !important;">
+    <span class="ms-rteThemeFontFace-1"><span class="ms-rteThemeFontFace-1"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span><a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril19.pdf"><span class="ms-rteThemeFontFace-1">&#160;Приложение 19.???? Филиал&#160;РЭУ им. Г.В. Плеханова в г. Пятигорске Ставропольского края</span><br/></a></span>
+</p>
+<p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; line-height: 1.6 !important; font-size: 14px !important;">
+    <span class="ms-rteThemeFontFace-1"><span class="ms-rteThemeFontFace-1"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span>&#160;<a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril20.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 20. Ташкентский филиал&#160;РЭУ им. Г.В. Плеханова</span><br/></a></span>
+</p>
+<p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; line-height: 1.6 !important; font-size: 14px !important;">
+    <span class="ms-rteThemeFontFace-1"><span class="ms-rteThemeFontFace-1"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span>&#160;<a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril21.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 21. Южно-Сахалинский институт (филиал)&#160;РЭУ им. Г.В. Плеханова</span><br/></a></span>
+</p>
+<p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; line-height: 1.6 !important; font-size: 14px !important;">
+    <span class="ms-rteThemeFontFace-1"><span class="ms-rteThemeFontFace-1"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span>&#160;<a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril22.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 22. Ярославский филиал&#160;РЭУ им. Г.В. Плеханова</span><br/></a></span>
+</p>
+<p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; line-height: 1.6 !important; font-size: 14px !important;">
+    <span class="ms-rteThemeFontFace-1"><span class="ms-rteThemeFontFace-1"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span>&#160;<a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril23.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 23. Хакасский филиал&#160;РЭУ им. Г.В. Плеханова</span><br/></a></span>
+</p>
+<p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; line-height: 1.6 !important; font-size: 14px !important;">
+    <span class="ms-rteThemeFontFace-1"><span class="ms-rteThemeFontFace-1"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span>&#160;<a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril24.pdf">Приложение 24. Филиал&#160;РЭУ им. Г.В. Плеханова в г. Рига</a>
+    <br/>
+    </span>
+</p>
+<p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; line-height: 1.6 !important; font-size: 14px !important;">
+    <span class="ms-rteThemeFontFace-1"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/>&#160;<a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril25.pdf">Приложение 25. Филиал&#160;РЭУ им. Г.В. Плеханова в г. Дмитрове Московской области</a></span></p>
+<p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; line-height: 1.6 !important; font-size: 14px !important;">
+    <span class="ms-rteThemeFontFace-1"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span><a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril26.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;Приложение 26. Усть-Каменогорский филиал&#160;РЭУ им. Г.В. Плеханова</span></a></p>
+<p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; line-height: 1.6 !important; font-size: 14px !important;">
+    <span class="ms-rteThemeFontFace-1"><span class="ms-rteThemeFontFace-1"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span>&#160;<a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril27.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение&#160;27. Алтайский техникум информатики и вычислительной техники (филиал)&#160;РЭУ им. Г.В. Плеханова</span><br/></a></span>
+</p>
+<p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; line-height: 1.6 !important; font-size: 14px !important;">
+    <span class="ms-rteThemeFontFace-1"><span class="ms-rteThemeFontFace-1"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span>&#160;<a target="_blank" href="/ru/Documents/Licenzii/Licen_25.12.2015.pdf"><span class="ms-rteThemeFontFace-1"></span></a><span class="ms-rteThemeFontFace-1"><a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril28.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 28. Архангельский филиал&#160;РЭУ им. Г.В. Плеханова</span></a>
+    </span>
+    <br/>
+    </span>
+</p>
+<p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; line-height: 1.6 !important; font-size: 14px !important;">
+    <span class="ms-rteThemeFontFace-1"><span class="ms-rteThemeFontFace-1"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/><a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril29.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;Приложение 29. Белгородский филиал&#160;РЭУ им. Г.В. Плеханова</span></a>
+    </span>
+    <br/>
+    </span>
+</p>
+<p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; line-height: 1.6 !important; font-size: 14px !important;">
+    <span class="ms-rteThemeFontFace-1"><span class="ms-rteThemeFontFace-1"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span>&#160;<a target="_blank" href="/ru/Documents/Licenzii/Licen_25.12.2015.pdf"><span class="ms-rteThemeFontFace-1"></span></a><span class="ms-rteThemeFontFace-1"><a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril30.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 30. Бурятский филиал&#160;РЭУ им. Г.В. Плеханова</span></a>
+    </span>
+    <br/>
+    </span>
+</p>
+<p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; line-height: 1.6 !important; font-size: 14px !important;">
+    <span class="ms-rteThemeFontFace-1"><span class="ms-rteThemeFontFace-1"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;</span><a target="_blank" href="/ru/Documents/Licenzii/Licen_25.12.2015.pdf" style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;"><span class="ms-rteThemeFontFace-1"></span></a><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril31.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 31 Дагестанский филиал&#160;РЭУ им. Г.В. Плеханова</span></a>
+    </span>
+    <br/>
+    </span>
+    </span>
+</p>
+<p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; line-height: 1.6 !important; font-size: 14px !important;">
+    <span class="ms-rteThemeFontFace-1"><span class="ms-rteThemeFontFace-1"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;</span><a target="_blank" href="/ru/Documents/Licenzii/Licen_25.12.2015.pdf" style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;"><span class="ms-rteThemeFontFace-1"></span></a><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril32.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 32.&#160;Ереванский филиал&#160;РЭУ им. Г.В. Плеханова</span></a>
+    </span>
+    <br/>
+    </span>
+    </span>
+</p>
+<p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; line-height: 1.6 !important; font-size: 14px !important;">
+    <span class="ms-rteThemeFontFace-1"><span class="ms-rteThemeFontFace-1"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;"></span><a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril33.pdf"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;Приложение 33. Рязанский филиал&#160;РЭУ им. ??Г.В. Плеханова</span></span><br/></a></span>
+    </span>
+</p>
+<p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; line-height: 1.6 !important; font-size: 14px !important;">
+    <span class="ms-rteThemeFontFace-1"><span class="ms-rteThemeFontFace-1"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span><a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril34.pdf"><span class="ms-rteThemeFontFace-1"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;Приложение 34. Севастопольский филиал&#160;РЭУ им. Г.В. Плеханова</span></span><br/></a></span>
+</p>
+<p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; line-height: 1.6 !important; font-size: 14px !important;">
+    <span class="ms-rteThemeFontFace-1"><span class="ms-rteThemeFontFace-1"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span>&#160;<a target="_blank" href="/ru/Documents/Licenzii/Licen_25.12.2015.pdf"><span class="ms-rteThemeFontFace-1"></span></a><span class="ms-rteThemeFontFace-1"><a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril35.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 35 Тверской филиал&#160;РЭУ им. Г.В. Плеханова</span></a>
+    </span>
+    <br/>
+    </span>
+</p>
+<p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; line-height: 1.6 !important; font-size: 14px !important;">
+    <span class="ms-rteThemeFontFace-1"><span class="ms-rteThemeFontFace-1"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span>&#160;<a target="_blank" href="/ru/Documents/Licenzii/Licen_25.12.2015.pdf"><span class="ms-rteThemeFontFace-1"></span></a><span class="ms-rteThemeFontFace-1"><a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril36.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 36. Нижегородский филиал&#160;РЭУ им. Г.В. Плеханова</span></a>
+    </span>
+    <br/>
+    </span>
+</p>
+<p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; line-height: 1.6 !important; font-size: 14px !important;">
+    <span class="ms-rteThemeFontFace-1"><span class="ms-rteThemeFontFace-1"><span class="ms-rteThemeFontFace-1"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span>&#160;<a target="_blank" href="/ru/Documents/Licenzii/Licen_25.12.2015.pdf"><span class="ms-rteThemeFontFace-1"></span></a><span class="ms-rteThemeFontFace-1"><a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril37.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 37. Калининградский филиал&#160;РЭУ им. Г.В. Плеханова</span></a>
+    </span>
+    </span>
+    </span>
+</p>
+<p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; line-height: 1.6 !important; font-size: 14px !important;">
+    <span class="ms-rteThemeFontFace-1"><span class="ms-rteThemeFontFace-1"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span>&#160;<a target="_blank" href="/ru/Documents/Licenzii/Licen_25.12.2015.pdf"><span class="ms-rteThemeFontFace-1"></span></a><span class="ms-rteThemeFontFace-1"><a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril38.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 38.&#160;Калмыцкий филиал&#160;РЭУ им. Г.В. Плеханова</span></a>
+    </span>
+    <br/>
+    </span>
+</p>
+<p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; line-height: 1.6 !important; font-size: 14px !important;">
+    <span class="ms-rteThemeFontFace-1"><span class="ms-rteThemeFontFace-1"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span>&#160;<a target="_blank" href="/ru/Documents/Licenzii/Licen_25.12.2015.pdf"><span class="ms-rteThemeFontFace-1"></span></a><span class="ms-rteThemeFontFace-1"><a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril39.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 39. Красноярский филиал&#160;РЭУ им. Г.В. Плеханова</span></a>
+    </span>
+    <br/>
+    </span>
+</p>
+<p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; line-height: 1.6 !important; font-size: 14px !important;">
+    <span class="ms-rteThemeFontFace-1"><span class="ms-rteThemeFontFace-1"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span><a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril40.pdf"><span class="ms-rteThemeFontFace-1">&#160;Приложение 40. Минский филиал&#160;РЭУ им. Г.В. Плеханова?</span><br/>?</a></span>
+</p>
+<p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; line-height: 1.6 !important; font-size: 14px !important;">
+    <span class="ms-rteThemeFontFace-1"><span class="ms-rteThemeFontFace-1"><br/></span></span>
+</p>
+<p>
+    <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><strong>Свидетельство о государственной аккредитации (с приложениями)</strong></span></p>
+<div itemprop="Accreditation_DocLink">
+    <span style="font-size: 14px;"> 
+      <p>
+         <span style="font-size: 14px;"> 
+            <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> </span><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> 
+               <a target="_blank" href="/ru/Documents/Licenzii/Pril1_akkred__30.12.2015.pdf"> 
+                  <img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span>
+    <span class="ms-rteThemeFontFace-1" style="font-size: 14px;">
+               <a target="_blank" href="/ru/Documents/Licenzii/Pril1_akkred__30.12.2015.pdf">Свидетельство о государственной аккредитации №1615&#160;от 30.12.2015??</a></span></span>
+    </p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril1_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span><a href="/ru/Documents/Licenzii/Akkred1615parts/Pril1_akkred_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;"></span></a><a href="/ru/Documents/Licenzii/Akkred1615parts/Pril1_akkred_30.12.2015.pdf">&#160;Приложение 1. ?«Российский Экономический Университет им. Г.В. Плеханова&#160;РЭУ им. Г.В. Плеханова»?</a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril2_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;<a href="/ru/Documents/Licenzii/Akkred1615parts/Pril2_akkred_30.12.2015.pdf">Приложение 2?. Саратовский социально-экономический институт (филиал) РЭУ им. Г.В. Плеханова</a></span></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril3_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;<a href="/ru/Documents/Licenzii/Akkred1615parts/Pril3_akkred_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 3. Улан-Баторский филиал&#160;РЭУ им. Г.В. Плеханова?</span></a>
+        </span>
+        <br class="ms-rteThemeFontFace-1" />
+        <a target="_blank" href="/ru/Documents/Licenzii/Pril1_akkred_OO__30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;" /></a>&#160;<a target="_blank" href="/ru/Documents/Licenzii/Pril1_akkred_OO__30.12.2015.pdf">Свидетельство о государственной аккре?дитации №1616&#160;от 30.12.2015</a>
+        <br/>
+    </p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril1_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span>
+        <a href="/ru/Documents/Licenzii/Akkred1616parts/Pril1_akkred_OO_30.12.2015.pdf"></a><a href="/ru/Documents/Licenzii/Lizenz2015parts/Licen_25.12.2015_pril1.pdf" style="font-size: 14px; font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif;"><span class="ms-rteThemeFontFace-1">&#160;Приложение 1. ФБГОУ ВО «Российский экономический университет РЭУ&#160;им. Г.В. Плеханова»</span></a>?</p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril2_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span>&#160;<a href="/ru/Documents/Licenzii/Akkred1616parts/Pril2_akkred_OO_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 2. Алтайский техникум информатики и вычислительной техники (филиал)&#160;РЭУ&#160;им. Г.В. Плеханова</span></a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril3_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span>&#160;<a href="/ru/Documents/Licenzii/Akkred1616parts/Pril3_akkred_OO_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 3. Архангельский филиал&#160;РЭУ&#160;им. Г.В. Плеханова</span></a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril1_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span><a href="/ru/Documents/Licenzii/Akkred1616parts/Pril4_akkred_OO_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;Приложение 4. Брянский филиал&#160;РЭУ&#160;им. Г.В. Плеханова?</span></a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril2_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span>&#160;<a href="/ru/Documents/Licenzii/Akkred1616parts/Pril5_akkred_OO_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 5. Бурятский филиал&#160;РЭУ&#160;им. Г.В. Плеханова</span></a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril3_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span>&#160;<a href="/ru/Documents/Licenzii/Akkred1616parts/Pril6_akkred_OO_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 6. Волгоградский филиал&#160;РЭУ&#160;им. Г.В. Плеханова</span></a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril1_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span>
+        <a href="/ru/Documents/Licenzii/Akkred1616parts/Pril7_akkred_OO_30.12.2015.pdf"></a><a href="/ru/Documents/Licenzii/Akkred1615parts/Pril7_akkred_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;Приложение 7. Воронежский филиал&#160;РЭУ&#160;им.&#160;Г.В. Плеханова</span></a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril2_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span>&#160;<span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;"><a href="/ru/Documents/Licenzii/Akkred1616parts/Pril8_akkred_OO_30.12.2015.pdf">Приложение 8. Дербентский филиал&#160;РЭУ&#160;им. Г.В. Плеханова?</a></span></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril3_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;<a href="/ru/Documents/Licenzii/Akkred1616parts/Pril9_akkred_OO_30.12.2015.pdf">Приложение 9. Ереванский филиал&#160;РЭУ&#160;им. Г.В. Плеханова</a></span></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril1_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span>&#160;<span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;"><a href="/ru/Documents/Licenzii/Akkred1616parts/Pril10_akkred_OO_30.12.2015.pdf">Приложение 10. Ивановский филиал&#160;РЭУ&#160;им. Г.В. Плеханова?</a></span></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril2_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span>&#160;<a href="/ru/Documents/Licenzii/Akkred1616parts/Pril11_akkred_OO_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 11. Калининградский филиал&#160;РЭУ&#160;им. Г.В. Плеханова</span></a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril3_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span>&#160;<a href="/ru/Documents/Licenzii/Akkred1616parts/Pril12_akkred_OO_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 12. Кемеровский институт&#160;РЭУ&#160;им. Г.В. Плеханова</span></a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril1_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span>&#160;<a href="/ru/Documents/Licenzii/Akkred1616parts/Pril13_akkred_OO_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 13. Краснодарский филиал&#160;РЭУ&#160;им. Г.В. Плеханова</span></a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril2_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span>&#160;<a href="/ru/Documents/Licenzii/Akkred1616parts/Pril14_akkred_OO_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 14. Красноярский филиал&#160;РЭУ&#160;им. Г.В. Плеханова</span></a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril3_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span><a href="/ru/Documents/Licenzii/Akkred1616parts/Pril15_akkred_OO_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;Приложение 15. Минский филиал&#160;РЭУ&#160;им. Г.В. Плеханова</span></a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril1_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span><a href="/ru/Documents/Licenzii/Akkred1616parts/Pril16_akkred_OO_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;Приложение 16. Нижегородский филиал&#160;РЭУ&#160;им. Г.В. Плеханова</span></a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril2_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span>&#160;<a href="/ru/Documents/Licenzii/Akkred1616parts/Pril17_akkred_OO_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 17. Омский институт&#160;РЭУ&#160;им. Г.В. Плеханова</span></a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril3_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span><a href="/ru/Documents/Licenzii/Akkred1616parts/Pril18_akkred_OO_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;Приложение 18. Оренбургский филиал&#160;РЭУ&#160;им. Г.В. Плеханова</span></a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril1_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span>&#160;<a href="/ru/Documents/Licenzii/Akkred1616parts/Pril19_akkred_OO_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 19. Пермский институт&#160;РЭУ&#160;им. Г.В. Плеханова</span></a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril2_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span>&#160;<a href="/ru/Documents/Licenzii/Akkred1616parts/Pril20_akkred_OO_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 20. Ростовский институт&#160;РЭУ&#160;им. Г.В. Плеханова</span></a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril3_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span>&#160;<a href="/ru/Documents/Licenzii/Akkred1616parts/Pril21_akkred_OO_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 21. Рязанский филиал&#160;РЭУ&#160;им. Г.В. Плеханова</span></a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril1_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span><a href="/ru/Documents/Licenzii/Akkred1616parts/Pril22_akkred_OO_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;Приложение 22. Самарский институт&#160;РЭУ&#160;им. Г.В. Плеханова</span></a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril2_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span><a href="/ru/Documents/Licenzii/Akkred1616parts/Pril23_akkred_OO_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;Приложение 23. Саратовский социально-экономический институт&#160;РЭУ&#160;им. Г.В. Плеханова</span></a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril3_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span><a href="/ru/Documents/Licenzii/Akkred1616parts/Pril24_akkred_OO_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;Приложение 24. Севастопольский филиал&#160;РЭУ&#160;им. Г.В. Плеханова</span></a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril1_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span><a href="/ru/Documents/Licenzii/Akkred1616parts/Pril25_akkred_OO_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;Приложение 25. Смоленский филиал&#160;РЭУ&#160;им. Г.В. Плеханова</span></a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril2_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span>&#160;<a href="/ru/Documents/Licenzii/Akkred1616parts/Pril26_akkred_OO_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 26. Тверской филиал&#160;РЭУ&#160;им. Г.В. Плеханова</span></a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril3_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span>&#160;<a href="/ru/Documents/Licenzii/Akkred1616parts/Pril27_akkred_OO_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 27. Тульский филиал&#160;РЭУ&#160;им. Г.В. Плеханова</span></a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril1_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span><a href="/ru/Documents/Licenzii/Akkred1616parts/Pril28_akkred_OO_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;Приложение 28. Улан-Баторский филиал&#160;РЭУ&#160;им. Г.В. Плеханова</span></a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril2_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span>&#160;<a href="/ru/Documents/Licenzii/Akkred1616parts/Pril29_akkred_OO_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">Приложение 29. Уральский филиал&#160;РЭУ&#160;им. Г.В. Плеханова</span></a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril3_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span><a href="/ru/Documents/Licenzii/Akkred1616parts/Pril30_akkred_OO_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;Приложение 30. Уфимский институт&#160;РЭУ&#160;им. Г.В. Плеханова</span></a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril1_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span><a href="/ru/Documents/Licenzii/Akkred1616parts/Pril31_akkred_OO_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;Приложение 31. Филиал РЭУ&#160;им. Г.В. Плеханова в г. Пятигорске Ставропольского края</span></a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril2_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span><a href="/ru/Documents/Licenzii/Akkred1616parts/Pril32_akkred_OO_30.12.2015.pdf">&#160;Приложение 32. Филиал&#160;РЭУ&#160;им. Г.В. Плеханова в г. Ташкенте</a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril3_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span><a href="/ru/Documents/Licenzii/Akkred1616parts/Pril33_akkred_OO_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;Приложение 33. Хакасский филиал&#160;РЭУ&#160;им. Г.В. Плеханова</span></a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril1_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span><a href="/ru/Documents/Licenzii/Akkred1616parts/Pril34_akkred_OO_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;Приложение 34. Южно-Сахалинский институт&#160;РЭУ&#160;им. Г.В. Плеханова</span></a></p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"><a target="_blank" href="/ru/Documents/Licenzii/Akkred1615parts/Pril2_akkred_30.12.2015.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span><a href="/ru/Documents/Licenzii/Akkred1616parts/Pril35_akkred_OO_30.12.2015.pdf"><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px;">&#160;Приложение 35?. Ярославский филиал&#160;РЭУ&#160;им. Г.В. Плеханова</span></a></p>
+    </span>
+</div>
+<p>
+    <span class="ms-rteThemeFontFace-1" style="font-size: 14px;">?<br/></span></p>
+<p>
+    <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><strong>???Правила приёма поступающих&#160;</strong><br/></span></p>
+<div itemprop="Priem_DocLink">
+    <span style="font-size: 14px;"> 
+      <p>
+         <span style="font-size: 14px;"> 
+            <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> </span><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> 
+               <a target="_blank" href="/sveden/document/Documents/Pravila_priema_26.09.2016.pdf"> 
+                  <img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span>
+    <a target="_blank" href="/sveden/document/Documents/Pravila_priema_26.09.2016.pdf"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;">Правила приёма на программы бакалавриата и спе???циалитета от 26.09.2016??</span></a><span class="ms-rteThemeFontFace-1" style="font-size: 14px;">????</span>
+    <br class="ms-rteThemeFontFace-1" />
+    </span>
+    </p>
+    <p>
+        <span style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"></span><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><a target="_blank" href="/sveden/document/Documents/Pravila_priema_26.09.2016_magistratura.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span><span class="ms-rteThemeFontFace-1" style="font-size: 14px;">? </span><a target="_blank" href="/sveden/document/Documents/Pravila_priema_26.09.2016_magistratura.pdf"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;">Правила приёма на програ?ммы магистратуры? от&#160;??26.09.2016</span></a><span class="ms-rteThemeFontFace-1" style="font-size: 14px;">?</span>
+        <br class="ms-rteThemeFontFace-1" />
+        </span>
+    </p>
+    <p>
+        <span style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"></span><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><a target="_blank" href="/sveden/document/Documents/Pravila_priema_24.02.2016_SPO.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span><span class="ms-rteThemeFontFace-1" style="font-size: 14px;">&#160;</span><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><a target="_blank" href="/sveden/document/Documents/Pravila_priema_24.02.2016_SPO.pdf">Правила приёма на программы&#160;?среднего профессионального обр?азования от 24.02.2016</a></span>
+        <br class="ms-rteThemeFontFace-1" />
+        </span>
+    </p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1">
+            <a target="_blank" href="/sveden/document/Documents/Pravila_priema_24.05.2016.pdf">
+               <img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span>&#160;<a target="_blank" href="/sveden/document/Documents/Pravila_priema_24.05.2016.pdf">Правила приёма на программы бакалавриата и спе???циалитета от 24.05.2016??</a><span class="ms-rteThemeFontFace-1">????</span>
+        <br class="ms-rteThemeFontFace-1" />
+    </p>
+    <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1"></span>
+        <span class="ms-rteThemeFontFace-1">
+            <a target="_blank" href="/sveden/document/Documents/Pravila_priema_14.04.2016_magistratura.pdf">
+               <img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span>
+        <span class="ms-rteThemeFontFace-1">?&#160;</span><a target="_blank" href="/sveden/document/Documents/Pravila_priema_14.04.2016_magistratura.pdf">Правила приёма на програ?ммы магистратуры? от&#160;??14.04.2016</a><span class="ms-rteThemeFontFace-1">?</span></p>
+    </span>
+</div>
+<p style="line-height: 1.6 !important;">
+    <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> 
+      <strong> 
+         <br/></strong></span></p>
+<p style="line-height: 1.6 !important;">
+    <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> 
+      <strong>Режим занятий обучающихся</strong><br/></span></p>
+<div itemprop="Mode_DocLink">
+    <p style="line-height: 1.6 !important;">
+        <span style="font-size: 14px;"> 
+         <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> </span><a target="_blank" href="/ru/Documents/Doc/Rezhim_zanyat_27.07.2012.pdf" style="line-height: 22.4px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> 
+               <img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span></a>
+        <a href="/ru/Documents/Doc/Rezhim_zanyat_27.07.2012.pdf" target="_blank">
+            <span class="ms-rteThemeFontFace-1" style="font-size: 14px;">Режим занятий обучающихся</span></a><span class="ms-rteThemeFontFace-1" style="font-size: 14px;">?</span></span>
+    </p>
+    <p style="line-height: 1.6 !important;">
+        <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> 
+         <br/></span></p>
+    <p style="line-height: 1.6 !important;">
+    </p>
+    <div itemprop="Tek_kontrol_DocLink">
+        <span style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> </span><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"></span><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"></span>
+        <strong class="ms-rteThemeFontFace-1" style="font-size: 14px;">Формы, периодичность и поря?док текущего контроля успеваемости и промежуточной аттестации обучающихся</strong>
+        <br class="ms-rteThemeFontFace-1" style="font-size: 14px;" /><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"></span>
+        <p>
+        </p>
+        <p style="line-height: 1.6 !important;">
+            <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> 
+               <span style="line-height: 22.4px;">?<a target="_blank" href="/sveden/document/Documents/Formi_sroki_kontrolya_25.03.2015.pdf" style="line-height: 22.4px;"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a><a href="/sveden/document/Documents/Formi_sroki_kontrolya_25.03.2015.pdf">Формы, периодичность и порядок текущего контроля успеваемости и промежуточной аттестации обучающихся</a></span>
+            <br/>
+            </span>
+        </p>
+        </span>
+    </div>
+</div>
+<p>
+    <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> 
+      <br/> </span></p>
+<p>
+    <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><strong>?План финансово-хозяйственной деятельности образовательной организации, утвержденный в установленном законодательством Российской Федерации порядке</strong><br/></span></p>
+<div itemprop="FinPlan_DocLink">
+    <p>
+        <span style="font-size: 14px;"> 
+         <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"></span>
+        <span class="ms-rteThemeFontFace-1" style="font-size: 14px;">
+            <a target="_blank" href="/Documents/PlanFHD.12.11.2014.pdf">
+               <img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> </span><a target="_blank" href="/Documents/Plan_FHD_12.11.2014.pdf"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;">План финансово-хозяйственной деятельности</span></a>
+        <br class="ms-rteThemeFontFace-1" />
+        </span>
+    </p>
+    <p>
+        <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> 
+         <br/> </span></p>
+    <p>
+    </p>
+    <div itemprop="LocalActStud">
+        <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> 
+         <strong>Правила внутреннего распорядка обучающихс?я&#160;</strong> 
+         <p> 
+         </p> 
+         <p>
+            <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> 
+               <a target="_blank" href="/sveden/document/Documents/Pravila_rasporyadka_23.03.2015.pdf" style="line-height: 22.4px;"> 
+                  <img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a> 
+               <a href="/sveden/document/Documents/Pravila_rasporyadka_23.03.2015.pdf" target="_blank">Правила внутреннего распорядка обучающихся</a><br/></span></p>
+        <p>
+            <br/>
+        </p>
+        <p>
+        </p>
+        <div itemprop="LocalActOrder">
+            <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> 
+               <strong>Правила внуреннего трудового распорядка</strong><br/>
+               <p>
+               </p> 
+               <p>
+                  <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> 
+                     <a target="_blank" href="/sveden/document/Documents/Pravila_trud_rasporyadka_12.12.2014.pdf" style="line-height: 22.4px;"> 
+                        <img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a> 
+                     <span style="line-height: 22.4px;">&#160;</span><a href="/sveden/document/Documents/Pravila_trud_rasporyadka_12.12.2014.pdf" target="_blank" style="line-height: 22.4px;">Правила внутреннего трудового распорядка</a>
+            <br/>
+            </span>
+            </p>
+            </span>
+        </div>
+        <p>
+            <br/>
+        </p>
+        <p>
+        </p>
+        <div itemprop="LocalActCollec">
+            <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><strong>Коллективный договор</strong><br/> 
+               <p> 
+               </p> 
+               <p>
+                  <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> 
+                     <a target="_blank" href="/sveden/document/Documents/Kol_dogovor_12.12.2014.pdf" style="line-height: 22.4px;"> 
+                        <img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a> 
+                     <span style="line-height: 22.4px;">&#160;</span><a href="/sveden/document/Documents/Kol_dorovor_12.12.2014.pdf" target="_blank" style="line-height: 22.4px;">Коллективный ?договор</a>?</span>
+            </p>
+            <div>
+                <br/>
+            </div>
+            <div>
+                <p>
+                    <a href="/ru/org/affiliates/profkom/Documents/Kollectivniy%20dogovor/Oglavlenie.pdf" target="_blank"><img class="ms-asset-icon ms-rtePosition-4" src="/ru/PublishingImages/logo/pdf_logo.png" alt="" />?Оглавление?</a>?
+                    <br/>
+                </p>
+                <p>?
+                    <br/>
+                </p>
+                <div>
+                    <ul style="padding-left: 15px; list-style-type: disc;">
+                        <li>
+                            <p>
+                                <a href="/ru/org/affiliates/profkom/Documents/Kollectivniy%20dogovor/Prilozheniye%201.%20Pravila%20vnutrennego%20trudovogo%20rasporyadka.pdf" target="_blank"><img class="ms-asset-icon ms-rtePosition-4" src="/ru/PublishingImages/logo/pdf_logo.png" alt="" />Приложение 1. Правила внутреннего трудового распорядка</a>
+                                <br/>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <a href="/ru/org/affiliates/profkom/Documents/Kollectivniy%20dogovor/Prilozheniye%202.%20Polozheniye%20o%20komissii%20po%20socialnim%20voprosam.pdf" target="_blank"><img class="ms-asset-icon ms-rtePosition-4" src="/ru/PublishingImages/logo/pdf_logo.png" alt="" />Приложение 2. Положение о комиссии по социальным вопросам (социальному страхованию)</a>
+                                <br/>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <a href="/ru/org/affiliates/profkom/Documents/Kollectivniy%20dogovor/Prilozheniye%203.%20Polozheniye%20o%20poryadke%20priobreteniya,%20raspredeleniya%20i%20vidaci%20putevok.pdf" target="_blank"><img class="ms-asset-icon ms-rtePosition-4" src="/ru/PublishingImages/logo/pdf_logo.png" alt="" />Приложение 3. Положение&#160;о порядке приобретения, распределения и выдачи путевок на санаторно-курортное лечение за счет средств&#160;приносящей доход деятельности</a>
+                                <br/>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <a href="/ru/org/affiliates/profkom/Documents/Kollectivniy%20dogovor/Prilozheniye%204.%20Polozheniye%20ob%20organizacii%20ohrani%20truda.pdf" target="_blank"><img class="ms-asset-icon ms-rtePosition-4" src="/ru/PublishingImages/logo/pdf_logo.png" alt="" />Приложение 4. Положение об организации работ по охране труда и обеспечению безопасности образовательного процесса в подразделениях</a>
+                                <br/>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <a href="/ru/org/affiliates/profkom/Documents/Kollectivniy%20dogovor/Prilozheniye%205.%20Perechen%20professiy%20i%20vidov%20rabot,%20rabotniki%20kotorix%20imeyut%20pravo%20na%20besplatnoye%20polucheniye.pdf" target="_blank"><img class="ms-asset-icon ms-rtePosition-4" src="/ru/PublishingImages/logo/pdf_logo.png" alt="" />Приложение 5. Перечень&#160;профессий и видов работ, работники которых&#160; имеют право на бесплатное получение специальной одежды, специальной обуви и других средств индивидуальной защиты?</a>
+                                <br/>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <a href="/ru/org/affiliates/profkom/Documents/%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%206.%20%D0%9F%D0%B5%D1%80%D0%B5%D1%87%D0%B5%D0%BD%D1%8C%20%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%B9%20%D0%B8%20%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82,%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D1%85%20%D0%B8%D0%BC%D0%B5%D1%8E%D1%82%20%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5.pdf"></a>
+                                <a href="/ru/org/affiliates/profkom/Documents/Kollectivniy%20dogovor/Prilozheniye%206.%20Perechen%20professiy%20i%20vidov%20rabot,%20rabotniki%20kotorih%20imeyut%20pravo%20na%20besplatnoe%20polucheniye.pdf" target="_blank"><img class="ms-asset-icon ms-rtePosition-4" src="/ru/PublishingImages/logo/pdf_logo.png" alt="" />Приложение 6.&#160;Перечень&#160;профессий и видов работ, работники которых имеют право на бесплатное получение&#160;смывающих и обезвреживающих средств?</a><a href="/ru/org/affiliates/profkom/Documents/%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%206.%20%D0%9F%D0%B5%D1%80%D0%B5%D1%87%D0%B5%D0%BD%D1%8C%20%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%B9%20%D0%B8%20%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82,%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D1%85%20%D0%B8%D0%BC%D0%B5%D1%8E%D1%82%20%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%20%D0%BD%D0%B0%20%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5.pdf">?</a></p>
+                        </li>
+                        <li>
+                            <p>
+                                <a href="/ru/org/affiliates/profkom/Documents/Kollectivniy%20dogovor/Prilozheniye%207.%20Polozheniye%20o%20lgotnom%20obuchenii%20rabotnikov%20i%20detey%20rabotnikov.pdf" target="_blank"><img class="ms-asset-icon ms-rtePosition-4" src="/ru/PublishingImages/logo/pdf_logo.png" alt="" />Приложение 7. Положение о льготном обучении работников и детей работников</a>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <a href="/ru/org/affiliates/profkom/Documents/Kollectivniy%20dogovor/Prilozheniye%208.%20Polozheniye%20o%20zvanii%20-%20Veteran%20Truda.pdf" target="_blank"><img class="ms-asset-icon ms-rtePosition-4" src="/ru/PublishingImages/logo/pdf_logo.png" alt="" />Приложение 8. Положение о звании «Ветеран Труда РЭУ им. Г.В. Плеханова»?</a>
+                                <br/>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <a href="/ru/org/affiliates/profkom/Documents/Kollectivniy%20dogovor/Prilozheniye%209.%20Polozheniye%20ob%20okazanii%20materialnoy%20pomoschi%20rabotnikam.pdf" target="_blank"><img class="ms-asset-icon ms-rtePosition-4" src="/ru/PublishingImages/logo/pdf_logo.png" alt="" />Приложение 9.&#160;Положение об оказании материальной помощи работникам</a>?
+                                <br/>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <a href="/ru/org/affiliates/profkom/Documents/Kollectivniy%20dogovor/Prilozheniye%2010.%20Polozheniye%20ob%20oplate%20truda%20rabotnikov.pdf" target="_blank"><img class="ms-asset-icon ms-rtePosition-4" src="/ru/PublishingImages/logo/pdf_logo.png" alt="" />Приложение 10. Положение об оплате труда работников</a>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <a href="/ru/org/affiliates/profkom/Documents/Kollectivniy%20dogovor/Prilozheniye%2011.%20Polozheniye%20o%20premirovanii%20rabotnikov.pdf" target="_blank"><img class="ms-asset-icon ms-rtePosition-4" src="/ru/PublishingImages/logo/pdf_logo.png" alt="" />Приложение 11. Положение о премировании работников</a>?</p>
+                        </li>
+                        <li>
+                            <p>
+                                <a href="/ru/org/affiliates/profkom/Documents/Kollectivniy%20dogovor/Prilozheniye%2012.%20Polozheniye%20o%20komandirovkah%20rabotnikov.pdf" target="_blank"><img class="ms-asset-icon ms-rtePosition-4" src="/ru/PublishingImages/logo/pdf_logo.png" alt="" />Приложение 12. Положение о командировках работников</a>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <a href="/ru/org/affiliates/profkom/Documents/Kollectivniy%20dogovor/Prilozheniye%2013.%20Polozheniye%20o%20poraydke%20obrabotki%20personalnyh%20dannyh%20rabotnikov.pdf" target="_blank"><img class="ms-asset-icon ms-rtePosition-4" src="/ru/PublishingImages/logo/pdf_logo.png" alt="" />Приложение 13. Положение о порядке обработки персональных данных работников</a>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <a href="/ru/org/affiliates/profkom/Documents/Kollectivniy%20dogovor/kollektivnii-dogovor-prilojenie-14.pdf" target="_blank"><img class="ms-asset-icon ms-rtePosition-4" src="/ru/PublishingImages/logo/pdf_logo.png" alt="" />Приложение 14. Согласие о предоставлении персональных данных работников</a>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <a href="/ru/org/affiliates/profkom/Documents/Kollectivniy%20dogovor/Prilozheniye%2015.%20Soglasheniye%20o%20nerazgloshenii%20personalnyh%20dannyh%20rabotnikov.pdf" target="_blank"><img class="ms-asset-icon ms-rtePosition-4" src="/ru/PublishingImages/logo/pdf_logo.png" alt="" />Приложение 15. Соглашение о неразглашении персональных данных работников</a>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <a href="/ru/org/affiliates/profkom/Documents/Kollectivniy%20dogovor/Prilozheniye%2016.%20Polozheniye%20o%20merah%20moralnogo%20pooshreniya%20rabotnikov.pdf" target="_blank"><img class="ms-asset-icon ms-rtePosition-4" src="/ru/PublishingImages/logo/pdf_logo.png" alt="" />Приложение 16. Положение о мерах морального поощрения работников?</a>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <a href="/ru/org/affiliates/profkom/Documents/Kollectivniy%20dogovor/Prilozheniye%2017.%20Polozheniye%20o%20komissiyah%20po%20nagradam.pdf" target="_blank"><img class="ms-asset-icon ms-rtePosition-4" src="/ru/PublishingImages/logo/pdf_logo.png" alt="" />Приложение 17. Положение о комиссии по наградам?</a>?</p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <p>
+                <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><br/></span></p>
+            </span>
+        </div>
+        <p>
+            <br/>
+        </p>
+        </span>
+    </div>
+    <p>
+    </p>
+    <div itemprop="LocalActObSt">
+        <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"></span><strong class="ms-rteThemeFontFace-1" style="font-size: 14px;">Нормативный&#160;ак?т, регламентирующий размер платы за пользование жилым помещением и коммунальные услуги в общежитии</strong><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> </span>
+        <p>
+        </p>
+        <p>
+            <span style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"></span><a target="_blank" href="/sveden/grants/Documents/Pol_st_dorm_29.10.2015.pdf" style="line-height: 22.4px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></span></a><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> </span><strong class="ms-rteThemeFontFace-1"></strong><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> </span><a href="/sveden/grants/Documents/Pol_st_dorm_29.10.2015.pdf" target="_blank" style="line-height: 22.4px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;">Положение&#160;???о студенческом общеж?итии</span></a><span class="ms-rteThemeFontFace-1" style="font-size: 14px;">???</span>
+            <br class="ms-rteThemeFontFace-1" />
+            </span>
+        </p>
+        <div>
+            <p>
+                <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><br/></span></p>
+            <p>
+                <span class="ms-rteThemeFontFace-1" style="font-size: 14px;">?<strong>Отчет о результатах самообследования</strong><br/></span></p>
+            <div itemprop="ReportEdu_DocLink">
+                <p>
+                    <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><a target="_blank" href="/Documents/Othet_o_samoobsledovanii_01.04.2016.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a><strong style="line-height: 1.6;">?&#160;</strong><span style="line-height: 1.6;"><a target="_blank" href="/Documents/Othet_o_samoobsledovanii_01.04.2016.pdf">Отчет о результатах самообследования на&#160;01.04.2016</a></span></span>
+                </p>
+                <p>?
+                    <br/>
+                </p>
+            </div>
+            <p>
+                <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><strong>?Документы о порядке оказания платных услуг&#160;</strong><br/></span></p>
+            <div itemprop="PaidEdu_DocLink">
+                <div itemprop="Voz_DocLink">
+                    <span style="font-size: 14px;"> 
+                  <p>
+                     <span class="ms-rteThemeFontFace-1" style="font-size: 14px;">Типовые договоры на оказание платных образовательных услуг по образовательным программам высшего образования (бакалавриата, специалитета) с оплатой ?за обучение c:<br/></span></p>
+                    <p>
+                        <span style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"></span><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><a target="_blank" href="/Documents/Dogovor_platn_obraz_uslug_31.05.2016.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span><span class="ms-rteThemeFontFace-1" style="font-size: 14px;">&#160;</span><a target="_blank" href="/Documents/Dogovor_platn_obraz_uslug_31.05.2016.pdf"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;">Физич??еск??им лицом</span></a>
+                        <br class="ms-rteThemeFontFace-1" />
+                        </span>
+                    </p>
+                    <p>
+                        <span style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"></span><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><a target="_blank" href="/Documents/Dogovor_platn_obraz_uslug_koll.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span><span class="ms-rteThemeFontFace-1" style="font-size: 14px;">&#160;</span><a target="_blank" href="/Documents/Dogovor_platn_obraz_uslug_koll.pdf"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;">Физическим лицом с учетом статей Коллективного догово?ра на 2015-2017 года</span></a>
+                        <br class="ms-rteThemeFontFace-1" />
+                        </span>
+                    </p>
+                    <p>
+                        <span style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"></span><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><a target="_blank" href="/Documents/Poryadok_platn_uslug_31.05.2016.pdf"><img src="/ru/PublishingImages/logo/pdf_logo.png" alt="" style="margin: 5px;"/></a></span><span class="ms-rteThemeFontFace-1" style="font-size: 14px;">?&#160;??</span><a target="_blank" href="/Documents/Poryadok_platn_uslug_31.05.2016.pdf"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;">Юридическим лицом</span></a>
+                        <br class="ms-rteThemeFontFace-1" />
+                        </span>
+                    </p>
+                    </span>
+                </div>
+            </div>
+            <p>
+                <span class="ms-rteThemeFontFace-1" style="font-size: 14px;">??<br/></span></p>
+            <p>
+                <strong>Документ об утверждении стоимости обучения по каждой образовательной программе</strong></p>
+            <p>
+                <span itemprop="PaidEdu_DocLink">
+               <a target="_blank" href="/Documents/Stoimost_obuch_25052016.pdf" style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 22.4px;">
+                  <img src="/ru/PublishingImages/logo/pdf_logo.png" class="ms-rteThemeFontFace-1" alt="" style="margin: 5px;"/></a>&#160;<a href="/Documents/Stoimost_obuch_25052016.pdf" target="_blank">Стоимость обуч?ения в 2016/2017 учебном году</a></span></p>
+            <p>
+                <br/>
+            </p>
+            <div itemprop="Perevod_DocLink">
+                <span style="font-size: 14px;"> 
+               <p>
+                  <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> 
+                     <strong>Положение о восстановлении от 24.02??.2016</strong><br/></span></p>
+                <p>
+                    <span style="font-size: 14px;"> 
+                     <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> </span>
+                    <a target="_blank" href="/ru/Documents/Polozheniya/PolozheniyeVosstnvl.pdf" style="line-height: 22.4px;"><img src="/ru/PublishingImages/logo/pdf_logo.png" class="ms-rteThemeFontFace-1" alt="" style="margin: 5px;" /></a><strong class="ms-rteThemeFontFace-1"></strong><a href="/ru/Documents/Polozheniya/PolozheniyeVosstnvl.pdf" target="_blank"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;"><strong>?</strong>?Положение о восстановлении</span></a>
+                    <br class="ms-rteThemeFontFace-1" />
+                    </span>
+                </p>
+                <p>
+                    <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> 
+                     <br/> </span></p>
+                <p>
+                    <strong>Положение о порядке перевода от 24.02.2016?</strong>
+                    <br/>
+                </p>
+                <p>
+                    <span style="font-size: 14px;"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;">?</span>
+                    <a target="_blank" href="/ru/Documents/Polozheniya/Perevod_OO_24.02.2016.pdf" style="line-height: 22.4px;"><img src="/ru/PublishingImages/logo/pdf_logo.png" class="ms-rteThemeFontFace-1" alt="" style="margin: 5px;" /></a><span class="ms-rteThemeFontFace-1" style="font-size: 14px;">&#160;</span><a href="/ru/Documents/Polozheniya/Perevod_OO_24.02.2016.pdf"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;">Положение о порядке перевода?</span></a>
+                    <br class="ms-rteThemeFontFace-1" />
+                    </span>
+                </p>
+                </span>
+            </div>
+            <p>
+                <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> 
+               <br/> </span></p>
+            <p>
+                <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> 
+               <strong>Положение о порядке организации и осуществления образовательной деятельности от 26.04.2016</strong><br/></span></p>
+            <p>
+                <span style="font-size: 14px;"> 
+               <span class="ms-rteThemeFontFace-1" style="font-size: 14px;"> </span>
+                <a target="_blank" href="/ru/Documents/Polozheniya/PolozheniyePrdkOrg.pdf" style="line-height: 22.4px;"><img src="/ru/PublishingImages/logo/pdf_logo.png" class="ms-rteThemeFontFace-1" alt="" style="margin: 5px;" /></a><strong class="ms-rteThemeFontFace-1" style="font-size: 14px;">&#160;</strong><span class="ms-rteThemeFontFace-1" style="font-size: 14px;">?</span><a href="/ru/Documents/Polozheniya/PolozheniyePrdkOrg.pdf" target="_blank"><span class="ms-rteThemeFontFace-1" style="font-size: 14px;">Положение о порядке организации и осуществления образовательной деятельности</span></a>??
+                <br/>
+                </span>
+            </p>
+            <p>
+                <span style="font-size: 14px;"> 
+               <br/></span></p>
+            <p>
+                <span style="font-size: 14px;"> 
+               <strong>?Порядок платы за проживание в общежитии</strong><br/></span></p>
+            <p>??????????????????????????
+                <a target="_blank" href="/sveden/grants/Documents/Poryadok_oplatu_za_progivanie_29.10.2015.pdf" style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 22.4px;"><img src="/ru/PublishingImages/logo/pdf_logo.png" class="ms-rteThemeFontFace-1" alt="" style="margin: 5px;" /></a><span itemprop="LocalActObSt"><a href="/sveden/grants/Documents/Poryadok_oplatu_za_progivanie_29.10.2015.pdf" target="_blank" style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 22.4px;"><span class="ms-rteThemeFontFace-1">По?рядок оплаты з?а проживание</span></a>
+                </span><span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 22.4px;">??</span>?
+                <br/>
+            </p>
+            <p>?
+                <br/>
+            </p>
+            <p>
+                <strong>Программа развития РЭУ на 2016-2021 года</strong></p>
+            <p>
+                <span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 22.4px;">
+               <a target="_blank" href="/sveden/document/Documents/Programma-PRUE2016-2021.pdf" style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 22.4px;">
+                  <img src="/ru/PublishingImages/logo/pdf_logo.png" class="ms-rteThemeFontFace-1" alt="" style="margin: 5px;"/></a>?<a href="/sveden/document/Documents/Programma-PRUE2016-2021.pdf" target="_blank">Программа развития РЭУ на 2016-2021 год</a>ы</span>
+                <br/>
+            </p>
+            <p>
+                <span style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 22.4px;">
+               <br/></span></p>
+            <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; line-height: 1.6 !important; font-size: 14px !important;">
+                <strong>Программа развития РЭУ на 2016-2021 года</strong></p>
+            <p style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; line-height: 1.6 !important; font-size: 14px !important;">
+                <span style="line-height: 22.4px;">
+               <a target="_blank" href="/sveden/document/Documents/Programmy-razvitiya2012-2016.pdf" style="line-height: 22.4px;">
+                  <img src="/ru/PublishingImages/logo/pdf_logo.png" class="ms-rteThemeFontFace-1" alt="" style="margin: 5px;"/></a>?<a href="/sveden/document/Documents/Programmy-razvitiya2012-2016.pdf" target="_blank">Программа развития РЭУ на 2012-?2016&#160;го???д</a>ы</span></p>
+            <p>
+                <span style="line-height: 1.6;">???</span>
+                <br/>
+            </p>
+            <p>
+                <strong>Публичный доклад ректора университета о работе за 2015 год (PRUE Rector Public Report 2015)??</strong>
+                <br/>
+            </p>
+            <p>
+                <a target="_blank" href="/sveden/document/Documents/PRUE%20Rector%20Public%20Report%202015.pdf" style="font-family: &quot;segoe ui&quot;, segoe, tahoma, helvetica, arial, sans-serif; font-size: 14px; line-height: 22.4px;">
+                    <img src="/ru/PublishingImages/logo/pdf_logo.png" class="ms-rteThemeFontFace-1" alt="" style="margin: 5px;" /></a>
+                <a href="/sveden/document/Documents/PRUE%20Rector%20Public%20Report%202015.pdf" target="_blank">Публичный доклад ректора университета о работ?е за 2015 год (PRUE Rector Public Report 2015)??</a>?
+                <br/>
+            </p>
+            <p>?
+                <br/>
+            </p>
+            <p>
+                <a href="/sveden/document/Documents/LAW176917_0_20160805_152912_54565.pdf" target="_blank">??</a>
+                <a href="/sveden/document/Documents/LAW176917_0_20160805_152912_54565.pdf" target="_blank"><img src="/ru/PublishingImages/logo/pdf_logo.png" class="ms-rteThemeFontFace-1" alt="" style="margin: 5px;" />Приказ МВД России от 07.11.2011 N 1121 (ред. от 19.02.2015)
+                    <span style="font-size: 11pt; line-height: 115%; font-family: calibri, sans-serif;">«</span>Об утверждении Административного регламента Министерства внутренних дел Российской Федерации по предоставлению государственной услуги по выдаче справок о нал?ичии (отсутствии) судимости и (или) факта уголовного преследования либо о прекращении уголовного преследования<span style="font-size: 11pt; line-height: 115%; font-family: calibri, sans-serif;">»</span>? (Зарегистрировано в Минюсте России 05.12.2011 N 22509)??</a>??
+                <br/> </p>
+        </div>
+    </div>
+</div>
